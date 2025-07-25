@@ -58,7 +58,7 @@ A blockchain-based inventory system built on Ethereum using Truffle, Solidity, a
 
 ---
 
-### 🦑 [SquidStock Survival](https://github.com/Abdullah-ft/SquidStockSurvival)
+### 🦑 [SquidStock Survival](https://github.com/Abdullah-ft/SquidStock-Survival)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Finance](https://img.shields.io/badge/YFinance-8B0000?style=flat-square)](https://pypi.org/project/yfinance/)
