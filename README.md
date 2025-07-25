@@ -49,7 +49,7 @@ A basic responsive website inspired by Peshawar Zalmi fandom. 🟡⚫ Simple des
 
 ---
 
-### 📦 [Ethereum Inventory Management](https://github.com/Abdullah-ft/Ethereum-Inventory-System)
+### 📦 [Ethereum Inventory Management](https://github.com/Abdullah-ft/MultiWarehouseInventory)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![Truffle](https://img.shields.io/badge/Truffle-5E3C61?style=flat-square&logo=truffle&logoColor=white)](https://trufflesuite.com/)
 [![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)](https://metamask.io/)
